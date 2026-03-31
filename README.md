@@ -4,7 +4,7 @@ Refinr is a web app that turns human response-sorting decisions into RLHF-style 
 
 ## Live App
 
-- Web: `https://playrefinr.vercel.app/`
+- Web: [Play Refinr](https://playrefinr.vercel.app/)
 
 ## Core Capabilities
 
